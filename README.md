@@ -1,4 +1,4 @@
-# Calculadora #
+# Calculadora
 Calculadora elaborada Con Javascript
 Teniendo como caracteristica principal (If / Else)
 Llamando por query a todos los botones.
